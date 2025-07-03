@@ -1,7 +1,7 @@
 function replaceShortcodes() {
     const shortcodes = {
-        fd:  { name: '720p', regex: /\[fd id='(.*?)'\]/g,  url: 'https://www.fastdramahd.com/dl/' },
-        egt: { name: 'GDTOT', regex: /\[egt id='(.*?)'\]/g, url: 'https://new17.gdtot.dad/file/' },
+        sgt:  { name: 'GDTOT', regex: /\[fd id='(.*?)'\]/g,  url: 'https://red.moviehai.icu/file/' },
+        egt: { name: 'GDTOT', regex: /\[egt id='(.*?)'\]/g, url: 'https://new20.gdtot.dad/file/' },
     };
 
     // Select elements with any of the target classes
